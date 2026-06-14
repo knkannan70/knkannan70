@@ -80,11 +80,11 @@ Status      : Open to Internships & Entry-Level Opportunities<br/>
 
 ## 🚀 Open To Opportunities
 
-<p align="center">
+
   <img src="https://img.shields.io/badge/Status-Open%20To%20Work-brightgreen?style=for-the-badge&logo=checkmarx&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Role-Java%20Full%20Stack%20%7C%20Software%20Developer-CC0000?style=for-the-badge&logo=java&logoColor=white" />&nbsp;
   <img src="https://img.shields.io/badge/Type-Internship%20%7C%20Entry%20Level-800000?style=for-the-badge&logo=target&logoColor=white" />
-</p>
+
 
 > 💼 Actively seeking **Internship** and **Entry-Level** roles as a **Java Full Stack Developer**, **Software Developer**, or **Software Engineer** — focused on building scalable, secure, and intelligent software solutions. Open to remote and on-site opportunities across India.
 
@@ -438,27 +438,6 @@ Status      : Open to Internships & Entry-Level Opportunities<br/>
 </div>
 
 <br/>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/Infosys-Java%20Programming-CC0000?style=for-the-badge&logo=java&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Infosys-ReactJS-800000?style=for-the-badge&logo=react&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/IBM%20SkillsBuild-Web%20Development-054ADA?style=for-the-badge&logo=ibm&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/ScholarHat-DSA-CC0000?style=for-the-badge&logo=leetcode&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/ScholarHat-SQL%20Server-800000?style=for-the-badge&logo=microsoftsqlserver&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Udemy-Modern%20JavaScript-EC5252?style=for-the-badge&logo=udemy&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Simplilearn-Generative%20AI-FF6600?style=for-the-badge&logo=openai&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Simplilearn-ChatGPT%20Advanced-FF6600?style=for-the-badge&logo=openai&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Anthropic-Claude%20101-800000?style=for-the-badge&logo=anthropic&logoColor=white" />
-</p>
-<p align="center">
-  <img src="https://img.shields.io/badge/Anthropic-Claude%20Code%20in%20Action-CC0000?style=for-the-badge&logo=anthropic&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Cognitive%20Class-Docker%20Essentials-2496ED?style=for-the-badge&logo=docker&logoColor=white" />&nbsp;
-  <img src="https://img.shields.io/badge/Kaggle%20%26%20Google-AI%20Agents%20Intensive-4285F4?style=for-the-badge&logo=google&logoColor=white" />
-</p>
 
 ---
 
