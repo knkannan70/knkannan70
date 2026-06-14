@@ -472,7 +472,6 @@ Status      : Open to Internships & Entry-Level Opportunities<br/>
 | 🌟 Community Contribution | Promoted technical learning, collaboration, and career growth among peers and junior students |
 
 </div>
-</div>
 
 ---
 
