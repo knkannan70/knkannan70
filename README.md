@@ -96,8 +96,6 @@ Status      : Open to Internships & Entry-Level Opportunities<br/>
 
 ## 🛠️ Tech Stack
 
-<div align="center">
-
 ### ☕ Backend
 
 ![Java](https://img.shields.io/badge/Java-CC0000?style=for-the-badge&logo=openjdk&logoColor=white)
@@ -149,7 +147,6 @@ Status      : Open to Internships & Entry-Level Opportunities<br/>
 ![LSTM](https://img.shields.io/badge/LSTM-800000?style=for-the-badge&logo=keras&logoColor=white)
 ![MobileNetV2](https://img.shields.io/badge/MobileNetV2-CC0000?style=for-the-badge&logo=tensorflow&logoColor=white)
 
-</div>
 
 ---
 
