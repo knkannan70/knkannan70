@@ -457,10 +457,11 @@ Status      : Open to Internships & Entry-Level Opportunities<br/>
 | 🧑‍🏫 Mentored junior students on software project development, coding standards, problem-solving techniques, and career readiness | 🤝 Guided **100+ Students** |
 | 💻 Delivered hands-on training in Java, Spring Boot, REST APIs, HTML, CSS, JavaScript, and Full Stack Development through live coding demonstrations | 🚀 Improved Practical Development Skills |
 | 🗣️ Demonstrated leadership, communication, mentoring, and technical presentation skills by organizing and conducting large-scale training sessions | 🌟 Strengthened Community Learning & Technical Engagement |
-
+</div>
 
 ### 📊 Overall Impact
 
+<div align="center">
 | Metric | Achievement |
 |:---|:---:|
 | 👨‍🎓 Students Trained | **160+** |
@@ -470,7 +471,7 @@ Status      : Open to Internships & Entry-Level Opportunities<br/>
 | 🚀 Technical Skills Delivered | Java, Spring Boot, REST APIs, HTML, CSS, JavaScript, Full Stack Development |
 | 🌟 Community Contribution | Promoted technical learning, collaboration, and career growth among peers and junior students |
 
-
+</div>
 </div>
 
 ---
