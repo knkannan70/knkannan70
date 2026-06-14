@@ -36,17 +36,11 @@
 ## 👨‍💻 Professional Introduction
 
 Name        : Kannan M<br/>
-
 DOB         : 04/01/2003<br/>
-
 Roles       : Java Full Stack Developer • Software Developer • Software Engineer<br/>
-
 Location    : Tirunelveli, Tamil Nadu, India</br>
-
 Phone       : +91 6383101198</br>
-
 Portfolio   : https://portfolio-ten-gules-60.vercel.app/<br/><br/>
-
 Education   : <br/>
       • BCA (2021–2024) — Sri Parama Kalyani College Alwarkurichi , Tenkasi - 627 412, Tamilnadu<br/>
       • MCA (2024–2026) — Manonmaniam Sundaranar University, Abishekapatti, Tirunelveli - 627012, Tamilnadu, India<br/><br/>
