@@ -38,15 +38,15 @@
 Name        : Kannan M<br/>
 DOB         : 04/01/2003<br/>
 Roles       :<br/>
- </t>• Java Full Stack Developer<br/>
- </t>• Software Developer<br/>
- </t>• Software Engineer<br/>
-Location    : Tirunelveli, Tamil Nadu, India
-Phone       : +91 6383101198
+ <\t>• Java Full Stack Developer<br/>
+ <\t>• Software Developer<br/>
+ <\t>• Software Engineer<br/>
+Location    : Tirunelveli, Tamil Nadu, India</br>
+Phone       : +91 6383101198</br>
 Portfolio   : https://portfolio-ten-gules-60.vercel.app/<br/><br/>
 Education   : <br/>
-  </t>• BCA (2021–2024) — Sri Parama Kalyani College Alwarkurichi , Tenkasi - 627 412, Tamilnadu<br/>
-  </t>• MCA (2024–2026) — Manonmaniam Sundaranar University, Abishekapatti, Tirunelveli - 627012, Tamilnadu, India<br/><br/>
+  <\t>• BCA (2021–2024) — Sri Parama Kalyani College Alwarkurichi , Tenkasi - 627 412, Tamilnadu<br/>
+  <\t>• MCA (2024–2026) — Manonmaniam Sundaranar University, Abishekapatti, Tirunelveli - 627012, Tamilnadu, India<br/><br/>
 Technical Skills :<br/>
  • Programming Languages : Java, Python(Basics)<br/>
  • Backend               : Spring Boot, REST APIs, JPA/Hibernate, JWT, MVC, Maven, Gradle<br/>
