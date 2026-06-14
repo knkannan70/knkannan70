@@ -412,7 +412,7 @@ Status      : Open to Internships & Entry-Level Opportunities
 
 | Degree | Institution | Duration | CGPA |
 |:---|:---|:---:|:---:|
-| 📚 **Master of Computer Applications (MCA)** *(Pursuing)* | Manonmaniam Sundaranar University, Tirunelveli | 2024 – 2026 | **7.9 / 10** |
+| 📚 **Master of Computer Applications (MCA)** *(Degree Certificate Awaited)* | Manonmaniam Sundaranar University, Tirunelveli | 2024 – 2026 | **7.9 / 10** |
 | 🎓 **Bachelor of Computer Applications (BCA)** | Sri Parama Kalyani College, Tenkasi | 2021 – 2024 | **7.4 / 10** |
 
 </div>
@@ -477,12 +477,27 @@ Status      : Open to Internships & Entry-Level Opportunities
 
 <div align="center">
 
-| 🏅 Achievement | Impact |
+| 🏅 Achievement | 📈 Impact |
 |:---|:---:|
-| 🎤 Led a Web Development fundamentals workshop — received positive feedback | **60+ Students** |
-| 🤖 Conducted an Artificial Intelligence awareness workshop | Community Impact |
-| ☕ Conducted a Java Full Stack Development workshop | Community Impact |
-| 🧑‍🏫 Mentored peers and junior students in modern software development practices | **100+ Students** |
+| 🎤 Led a Web Development Fundamentals Workshop, receiving positive feedback for practical and engaging sessions | 👨‍🎓 Trained **60+ Students** |
+| 🤖 Conducted Artificial Intelligence workshops for peers and junior students, enhancing awareness of AI concepts and applications | 👨‍🎓 Reached **100+ Students** |
+| ☕ Conducted Java Full Stack Development workshops covering modern software development practices | 👨‍🎓 Reached **100+ Students** |
+| 🧑‍🏫 Mentored junior students on software project development, coding standards, problem-solving techniques, and career readiness | 🤝 Guided **100+ Students** |
+| 💻 Delivered hands-on training in Java, Spring Boot, REST APIs, HTML, CSS, JavaScript, and Full Stack Development through live coding demonstrations | 🚀 Improved Practical Development Skills |
+| 🗣️ Demonstrated leadership, communication, mentoring, and technical presentation skills by organizing and conducting large-scale training sessions | 🌟 Strengthened Community Learning & Technical Engagement |
+
+
+### 📊 Overall Impact
+
+| Metric | Achievement |
+|:---|:---:|
+| 👨‍🎓 Students Trained | **160+** |
+| 🎯 Technical Workshops Conducted | **3+** |
+| 💡 Topics Covered | Web Development, Artificial Intelligence, Java Full Stack Development |
+| 🤝 Mentorship Impact | Guided students on projects, coding best practices, problem-solving, and interview preparation |
+| 🚀 Technical Skills Delivered | Java, Spring Boot, REST APIs, HTML, CSS, JavaScript, Full Stack Development |
+| 🌟 Community Contribution | Promoted technical learning, collaboration, and career growth among peers and junior students |
+
 
 </div>
 
@@ -500,68 +515,6 @@ Status      : Open to Internships & Entry-Level Opportunities
   </a>
 </p>
 
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                   CONTRIBUTION GRAPH                      -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 📈 Contribution Graph
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=knkannan70&bg_color=0A0A0A&color=CC0000&line=CC0000&point=ffffff&area=true&hide_border=true&area_color=330000&radius=8" alt="Contribution Graph" />
-</p>
-
----
-
-<!-- ═══════════════════════════════════════════════════════════ -->
-<!--                  CONTRIBUTION SNAKE                       -->
-<!-- ═══════════════════════════════════════════════════════════ -->
-
-## 🐍 Contribution Snake
-
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/knkannan70/knkannan70/output/github-contribution-grid-snake-dark.svg" />
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/knkannan70/knkannan70/output/github-contribution-grid-snake.svg" />
-    <img alt="GitHub Contribution Snake" src="https://raw.githubusercontent.com/knkannan70/knkannan70/output/github-contribution-grid-snake-dark.svg" />
-  </picture>
-</p>
-
-<details>
-<summary><b>⚙️ Setup: Enable the Snake Animation</b></summary>
-
-Create `.github/workflows/snake.yml` in your `knkannan70/knkannan70` profile repository:
-
-```yaml
-name: Generate Snake Animation
-
-on:
-  schedule:
-    - cron: "0 0 * * *"
-  workflow_dispatch:
-
-jobs:
-  generate:
-    runs-on: ubuntu-latest
-    steps:
-      - uses: Platane/snk/svg-only@v3
-        with:
-          github_user_name: knkannan70
-          outputs: |
-            dist/github-contribution-grid-snake.svg
-            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
-      - uses: crazy-max/ghaction-github-pages@v3
-        with:
-          target_branch: output
-          build_dir: dist
-        env:
-          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-```
-
-</details>
-
----
 
 <!-- ═══════════════════════════════════════════════════════════ -->
 <!--                    CURRENT FOCUS                          -->
