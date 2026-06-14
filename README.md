@@ -35,26 +35,26 @@
 
 ## 👨‍💻 Professional Introduction
 
-Name        : Kannan M
-Roles       :
+- Name        : Kannan M
+- Roles       :
  • Java Full Stack Developer
  • Software Developer
  • Software Engineer
-Location    : Tirunelveli, Tamil Nadu, India
-Phone       : +91 6383101198
-Portfolio   : https://portfolio-ten-gules-60.vercel.app/
-Education   : 
- • BCA (2021–2024) — Sri Parama Kalyani College Alwarkurichi , Tenkasi - 627 412, Tamilnadu
- • MCA (2024–2026) — Manonmaniam Sundaranar University, Abishekapatti, Tirunelveli - 627012, Tamilnadu, India
-Technical Skills :
- • Programming Languages : Java, Python(Basics)
- • Backend               : Spring Boot, REST APIs, JPA/Hibernate, JWT, MVC, Maven, Gradle
- • Frontend              : React.js, JavaScript ES6+, HTML5, CSS3
- • Database              : MySQL 
- • AI/ML                 : TensorFlow Lite, CNN, LSTM, MobileNetV2, Flutter
- • Tools                 : Git, GitHub, Postman, IntelliJ IDEA, MySQL Workbench
-Passion     : Building scalable, secure & intelligent full-stack applications
-Status      : Open to Internships & Entry-Level Opportunities
+- Location    : Tirunelveli, Tamil Nadu, India
+- Phone       : +91 6383101198
+- Portfolio   : https://portfolio-ten-gules-60.vercel.app/
+- Education   : 
+ - • BCA (2021–2024) — Sri Parama Kalyani College Alwarkurichi , Tenkasi - 627 412, Tamilnadu
+ - • MCA (2024–2026) — Manonmaniam Sundaranar University, Abishekapatti, Tirunelveli - 627012, Tamilnadu, India
+- Technical Skills :
+ - • Programming Languages : Java, Python(Basics)
+ - • Backend               : Spring Boot, REST APIs, JPA/Hibernate, JWT, MVC, Maven, Gradle
+ - • Frontend              : React.js, JavaScript ES6+, HTML5, CSS3
+ - • Database              : MySQL 
+ - • AI/ML                 : TensorFlow Lite, CNN, LSTM, MobileNetV2, Flutter
+ - • Tools                 : Git, GitHub, Postman, IntelliJ IDEA, MySQL Workbench
+- Passion     : Building scalable, secure & intelligent full-stack applications
+- Status      : Open to Internships & Entry-Level Opportunities
 
 ---
 
