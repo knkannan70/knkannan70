@@ -66,14 +66,14 @@ Status      : Open to Internships & Entry-Level Opportunities
 
 ## 🧑‍🚀 About Me
 
-- 🎓 **BCA Graduate** from Sri Parama Kalyani College, Tenkasi (CGPA: 7.4/10)
-- 📚 Currently pursuing **MCA** at Manonmaniam Sundaranar University (CGPA: 7.9/10)
+- 🎓 **BCA Graduate** from Sri Parama Kalyani College, Tenkasi with a CGPA of 7.4/10
+- 📚 **MCA Completed** from Manonmaniam Sundaranar University with a CGPA of 7.9/10 (Degree Certificate Awaited).
 - 💻 Passionate **Java Full Stack Developer** skilled in **Spring Boot** and **React.js**
 - 🤖 Built an **AI-powered Real-Time Violence Detection System** with **99.27% image accuracy**
 - 🔐 Strong hands-on experience with **JWT Authentication**, **RBAC**, and secure **REST API** design
 - 🌐 **Live Portfolio:** [portfolio-ten-gules-60.vercel.app](https://portfolio-ten-gules-60.vercel.app/)
 - 🏫 Led workshops on Web Development, AI, and Java Full Stack for **100+ peers and junior students**
-- 🌱 Continuously growing in **Backend Engineering**, **AI/ML Integration**, and **Software Architecture**
+- 🌱 Continuously growing in **Software Developement**, **Backend Engineering**, **AI/ML Integration**, and **Software Architecture**
 - 📍 **Tirunelveli, Tamil Nadu, India** &nbsp;|&nbsp; 📞 +91 6383101198
 
 ---
