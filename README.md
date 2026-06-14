@@ -55,7 +55,6 @@ Technical Skills :
  • Tools                 : Git, GitHub, Postman, IntelliJ IDEA, MySQL Workbench
 Passion     : Building scalable, secure & intelligent full-stack applications
 Status      : Open to Internships & Entry-Level Opportunities
-```
 
 ---
 
