@@ -27,6 +27,11 @@
 
 <br/>
 
+<!-- ANIMATION ADDED: Animated Wave Divider -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=soft&color=CC0000&height=6&section=header" width="100%" />
+</p>
+
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -34,6 +39,9 @@
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 👨‍💻 Professional Introduction
+
+<!-- ANIMATION ADDED: Coding GIF beside intro -->
+<img align="right" alt="Coding GIF" width="320" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" />
 
 Name        : Kannan M<br/>
 DOB         : 04/01/2003<br/>
@@ -54,6 +62,11 @@ Technical Skills :<br/>
 Passion     : Building scalable, secure & intelligent full-stack applications<br/>
 Status      : Open to Internships & Entry-Level Opportunities<br/>
 
+<!-- ANIMATION ADDED: Animated Section Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
+
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -72,6 +85,11 @@ Status      : Open to Internships & Entry-Level Opportunities<br/>
 - 🌱 Continuously growing in **Software Developement**, **Backend Engineering**, **AI/ML Integration**, and **Software Architecture**
 - 📍 **Tirunelveli, Tamil Nadu, India** &nbsp;|&nbsp; 📞 +91 6383101198
 
+<!-- ANIMATION ADDED: Animated Section Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
+
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -88,6 +106,11 @@ Status      : Open to Internships & Entry-Level Opportunities<br/>
 
 > 💼 Actively seeking **Internship** and **Entry-Level** roles as a **Java Full Stack Developer**, **Software Developer**, or **Software Engineer** — focused on building scalable, secure, and intelligent software solutions. Open to remote and on-site opportunities across India.
 
+<!-- ANIMATION ADDED: Animated Section Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
+
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -95,6 +118,11 @@ Status      : Open to Internships & Entry-Level Opportunities<br/>
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🛠️ Tech Stack
+
+<!-- ANIMATION ADDED: Typing Effect for Tech Stack -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=CC0000&center=true&vCenter=true&width=600&lines=Backend+%7C+Frontend+%7C+Database+%7C+AI%2FML+%7C+Security" alt="Tech Stack Typing" />
+</p>
 
 ### ☕ Backend
 
@@ -147,6 +175,10 @@ Status      : Open to Internships & Entry-Level Opportunities<br/>
 ![LSTM](https://img.shields.io/badge/LSTM-800000?style=for-the-badge&logo=keras&logoColor=white)
 ![MobileNetV2](https://img.shields.io/badge/MobileNetV2-CC0000?style=for-the-badge&logo=tensorflow&logoColor=white)
 
+<!-- ANIMATION ADDED: Animated Section Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 ---
 
@@ -155,6 +187,11 @@ Status      : Open to Internships & Entry-Level Opportunities<br/>
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🤖 AI / ML Expertise
+
+<!-- ANIMATION ADDED: AI-themed GIF -->
+<p align="center">
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcWJ4eW1tbGhyZnlwcm92MWI2NHkwNXd0M2Eycmh4d3B0a2Q2NHhieSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LaVp0AyqR5bGsC5Cbm/giphy.gif" width="280" alt="AI Animation" />
+</p>
 
 <div align="center">
 
@@ -169,6 +206,11 @@ Status      : Open to Internships & Entry-Level Opportunities<br/>
 
 </div>
 
+<!-- ANIMATION ADDED: Animated Section Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
+
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -176,6 +218,11 @@ Status      : Open to Internships & Entry-Level Opportunities<br/>
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🌟 Featured Projects
+
+<!-- ANIMATION ADDED: Typing Effect for Projects -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1200&color=CC0000&center=true&vCenter=true&width=700&lines=Click+each+project+to+expand+details+%F0%9F%91%87;Full+Stack+%7C+AI%2FML+%7C+Mobile+%7C+Web+Projects" alt="Projects Typing" />
+</p>
 
 ---
 
@@ -393,6 +440,11 @@ Status      : Open to Internships & Entry-Level Opportunities<br/>
 
 </details>
 
+<!-- ANIMATION ADDED: Animated Section Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
+
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -410,6 +462,11 @@ Status      : Open to Internships & Entry-Level Opportunities<br/>
 
 </div>
 
+<!-- ANIMATION ADDED: Animated Section Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
+
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -417,6 +474,11 @@ Status      : Open to Internships & Entry-Level Opportunities<br/>
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 📜 Certifications
+
+<!-- ANIMATION ADDED: Typing Effect for Certifications -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=CC0000&center=true&vCenter=true&width=650&lines=Certified+in+Java+%7C+React+%7C+AI+%7C+Docker+%7C+Web+Dev;12+Certifications+from+IBM%2C+Infosys%2C+Anthropic+%26+more" alt="Certs Typing" />
+</p>
 
 <div align="center">
 
@@ -438,6 +500,11 @@ Status      : Open to Internships & Entry-Level Opportunities<br/>
 </div>
 
 <br/>
+
+<!-- ANIMATION ADDED: Animated Section Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 ---
 
@@ -471,6 +538,11 @@ Status      : Open to Internships & Entry-Level Opportunities<br/>
 
 </div>
 
+<!-- ANIMATION ADDED: Animated Section Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
+
 ---
 
 <!-- ═══════════════════════════════════════════════════════════ -->
@@ -478,6 +550,11 @@ Status      : Open to Internships & Entry-Level Opportunities<br/>
 <!-- ═══════════════════════════════════════════════════════════ -->
 
 ## 🎯 Current Focus
+
+<!-- ANIMATION ADDED: Typing Effect for Current Focus -->
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=16&pause=1000&color=CC0000&center=true&vCenter=true&width=700&lines=Learning+%7C+Building+%7C+Growing+Every+Day;Microservices+%7C+DSA+%7C+System+Design+%7C+Docker" alt="Focus Typing" />
+</p>
 
 Roles Targeting:
   - Java Full Stack Developer
@@ -506,6 +583,10 @@ Values:
   - Continuous learning and growth mindset
   - Collaborative and team-oriented engineering
 
+<!-- ANIMATION ADDED: Animated Section Divider -->
+<p align="center">
+  <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" />
+</p>
 
 ---
 
