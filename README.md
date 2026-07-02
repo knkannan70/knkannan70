@@ -434,6 +434,11 @@ Status      : Open to Internships & Entry-Level Opportunities<br/>
 | 10 | **Claude Code in Action** | Anthropic | [![PDF](https://img.shields.io/badge/View-PDF-800000?style=flat-square&logo=anthropic&logoColor=white)](https://portfolio-ten-gules-60.vercel.app/certificates/Claudecodeaction.pdf) |
 | 11 | **Docker Essentials: A Developer Introduction** | Cognitive Class (IBM) | [![PDF](https://img.shields.io/badge/View-PDF-2496ED?style=flat-square&logo=docker&logoColor=white)](https://portfolio-ten-gules-60.vercel.app/certificates/IBM%20CO0101EN%20Certificate%20_%20Cognitive%20Class.pdf) |
 | 12 | **5-Day AI Agents Intensive Course** | Kaggle & Google | [![View](https://img.shields.io/badge/View-Certificate-4285F4?style=flat-square&logo=google&logoColor=white)](https://portfolio-ten-gules-60.vercel.app/certificates/AiAgents.png) |
+|  13 | **Master Data Management for Beginners**                |  TCS iON  |                    [![PDF](https://img.shields.io/badge/View-PDF-CC0000?style=flat-square\&logo=adobeacrobatreader\&logoColor=white)](https://portfolio-ten-gules-60.vercel.app/certificates/TCS-ION-Data-Management.pdf)                    |
+|  14 | **Database Management System Part - 1**                 |  Infosys  |         [![PDF](https://img.shields.io/badge/View-PDF-CC0000?style=flat-square\&logo=adobeacrobatreader\&logoColor=white)](https://portfolio-ten-gules-60.vercel.app/certificates/Database%20Management%20System%20Part%20-%201.pdf)         |
+|  15 | **Software Engineering and Agile Software Development** |  Infosys  | [![PDF](https://img.shields.io/badge/View-PDF-CC0000?style=flat-square\&logo=adobeacrobatreader\&logoColor=white)](https://portfolio-ten-gules-60.vercel.app/certificates/Software%20Engineering%20and%20Agile%20software%20development.pdf) |
+
+
 
 </div>
 
